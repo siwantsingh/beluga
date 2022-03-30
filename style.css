@@ -1,0 +1,13 @@
+body {
+    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+background-color:aqua;
+}
+.main_div button{
+    font-family:'Gill Sans', 'Gill Sans MT', Calibri, 'Trebuchet MS', sans-serif;
+    margin-top: 90px;
+    width: 130px; ;
+    font-weight: bolder; 
+    letter-spacing: 3px; ;
+}
+
+
